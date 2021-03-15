@@ -1,2 +1,5 @@
-server:
-  port: test222
+mysql:
+  port: dev-http://localhost:3306/db100
+
+lose:
+  message: hello lose,100
